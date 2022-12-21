@@ -103,14 +103,12 @@ body {
   display: flex;
   align-items: center;
   gap: 1.4rem;
-  margin-bottom: 1.2rem;
+  margin-bottom: 1rem;
 }
 
 .subscription__price span {
   font-size: 1.6rem;
   font-weight: 400;
-  opacity: 0.8;
-  mix-blend-mode: normal;
 }
 
 .subscription__info {
@@ -138,9 +136,4 @@ body {
   list-style: none;
   font-size: 1.4rem;
   line-height: 1.4;
-}
-
-.why-us__list-item {
-  opacity: 0.8;
-  mix-blend-mode: normal;
 }
