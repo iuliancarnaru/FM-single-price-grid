@@ -50,7 +50,7 @@ body {
 .header,
 .subscription,
 .why-us {
-  padding: 3.8rem 4.2rem;
+  padding: 4.2rem;
 }
 
 @media screen and (max-width: 33.3em) {
