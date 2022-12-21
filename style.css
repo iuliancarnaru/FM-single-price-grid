@@ -80,12 +80,12 @@ body {
 .heading-secondary {
   font-size: 1.8rem;
   color: var(--color-bright-yellow);
-  margin-bottom: 1.2rem;
+  margin-bottom: 1rem;
 }
 
 .heading-tertiary {
   font-size: 1.8rem;
-  margin-bottom: 2.2rem;
+  margin-bottom: 2rem;
 }
 
 .header__text {
@@ -103,7 +103,7 @@ body {
   display: flex;
   align-items: center;
   gap: 1.4rem;
-  margin-bottom: 1.4rem;
+  margin-bottom: 1.2rem;
 }
 
 .subscription__price span {
