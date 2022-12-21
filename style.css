@@ -85,7 +85,7 @@ body {
 
 .heading-tertiary {
   font-size: 1.8rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .header__text {
@@ -137,7 +137,7 @@ body {
 .why-us__list {
   list-style: none;
   font-size: 1.4rem;
-  line-height: 1.6;
+  line-height: 1.4;
 }
 
 .why-us__list-item {
